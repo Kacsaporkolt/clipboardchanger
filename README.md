@@ -20,6 +20,6 @@ It is essentially a graphical GUI with a file input field and a button. The prog
 from PowerShell using the simple py line after navigate to the directory:
 ```bash pip
 cd C:\users\user\Downloads\cboardchanger
-py cboardchanger.py
+py clipboardchanger.py
 
 
