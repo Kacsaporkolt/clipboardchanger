@@ -21,5 +21,5 @@ from PowerShell using the simple py line after navigate to the directory:
 ```bash pip
 cd C:\users\user\Downloads\cboardchanger
 py clipboardchanger.py
-
-
+```
+Or simply run the .exe is located in the "dist" directory.
